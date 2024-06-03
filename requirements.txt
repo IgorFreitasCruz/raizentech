@@ -1,0 +1,7 @@
+fastapi
+pymongo
+click
+uvicorn
+pytest
+pydantic-settings
+pytest-asyncio

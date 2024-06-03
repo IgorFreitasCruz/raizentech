@@ -81,12 +81,9 @@ $ docker-compose exec backend pytest
 -   Mongo
 -   Mongo Express
 
----
-
 ## Autor
 <a>
  <img style="border-radius: 50%;" src="./images/igor.jpeg" width="100px;" alt=""/>
- <br />
  <sub><b>Igor de Freitas Cruz</b></sub></a> 🚀
  <br />
 

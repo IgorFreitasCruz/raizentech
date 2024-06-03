@@ -28,9 +28,9 @@ Elaborar uma aplicação de _backend_ que deverá conter uma API retornando os d
 
 ```bash
 # Faça o clone do repositório
-$ git clone https://github.com/IgorFreitasCruz/raizentech.git .
+$ git clone https://github.com/IgorFreitasCruz/raizentech.git
 
-# Acesso o diretório do projeot
+# Acesse o diretório do projeto
 $ cd raizentech
 ```
 
